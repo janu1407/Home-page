@@ -1,0 +1,105 @@
+.hello{
+    Width: 12%;
+    Height:70px;
+    font-size:48px;
+    position:relative;
+    color:#06286E;
+    font-style:Montserrat;
+    background-image: linear-gradient(to bottom, #06286E, #164EC0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-top: 50px;
+}
+.faq{
+    padding:100px;
+}
+.hi{
+    display:flex;
+}
+.pub{
+   
+    position:absolute;
+    padding:40px;
+}
+.relative{
+    padding-left: 100px;
+    color:#696671;
+}
+.logo1{
+    width:150px;
+    height:150px;
+    margin-right:750px;
+    display:flex;
+    float:left;
+}
+.hey{
+    display:flex;
+    overflow: auto;
+}
+.icon2{
+    display:flex;
+}
+.plus{
+    display:flex;
+    padding-top: 50px;
+    padding-left:10px;
+}
+.com{
+    display:flex;
+    padding:10px;
+}
+.fc{
+    padding:25px;
+    background-image: linear-gradient(to bottom, #06286E, #164EC0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 30px;
+}
+.hyggex{
+    Width:115.14px;
+    Height:34.54px;
+    position:absolute;
+    top:70%;
+    left:50%;
+}
+ 
+/* .accordion-body {
+    width: 800px;
+    margin: 50px ;
+    color: black;
+    justify-content: left;
+    background-color: white;
+    border-radius: 10px;
+    border-color: blue;
+}
+.container{
+    display:block;
+    border: #06286E;
+}
+.f1{
+    display:flex;
+}
+.label{
+    justify-content: left;
+    margin-right: 50px;
+    display:flex;
+    padding:10px;
+}
+.content{
+ display:flex; 
+    margin-right: 5px;
+    text-align: left;
+    padding:10px;
+}
+
+.down{
+    width:30px;
+    height:30px;
+    padding:10px;   
+    padding-left:90px;
+}
+
+ border-radius: 10px;
+    border-color: blue; */

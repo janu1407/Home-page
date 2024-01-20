@@ -1,0 +1,40 @@
+.logowidth{
+    width: 191px; 
+    height: 39px; 
+    margin-left:10px;
+}
+.container{
+    display:flex;
+    padding-top: 30px;
+    width:80%;
+    padding:10px 8%;
+}
+.naive{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    padding:10px 0;
+}
+
+ul{
+    list-style:none;
+    width:70%;
+    text-align:right;
+    padding-right:0px;
+}
+
+li{
+    display:inline-block;
+    margin:10px 20px;
+    font-size: 18px;
+}
+
+.login{
+    border-radius: 32px;
+    padding: 15px 32px;
+    font-size: 18px;
+    color:white;
+    background: linear-gradient(-60deg, #06286E,#164EC0);
+    border-color: white;
+}
